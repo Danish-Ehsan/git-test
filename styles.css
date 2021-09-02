@@ -3,3 +3,9 @@
     padding: 0;
     display: block;
 }
+
+h3 {
+    display: inline-block;
+    color: red;
+    font-size: 18px;
+}
