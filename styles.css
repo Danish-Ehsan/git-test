@@ -9,3 +9,8 @@ h3 {
     color: red;
     font-size: 18px;
 }
+
+footer {
+    width: 200px;
+    margin: 0 auto;
+}
